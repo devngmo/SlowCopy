@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlowCopy", "SlowCopy\SlowCopy.csproj", "{6AAEC255-57CE-44EA-8C75-0C117F1B5DCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AAEC255-57CE-44EA-8C75-0C117F1B5DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AAEC255-57CE-44EA-8C75-0C117F1B5DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AAEC255-57CE-44EA-8C75-0C117F1B5DCC}.Debug|x64.ActiveCfg = Debug|x64
+		{6AAEC255-57CE-44EA-8C75-0C117F1B5DCC}.Debug|x64.Build.0 = Debug|x64
+		{6AAEC255-57CE-44EA-8C75-0C117F1B5DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AAEC255-57CE-44EA-8C75-0C117F1B5DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AAEC255-57CE-44EA-8C75-0C117F1B5DCC}.Release|x64.ActiveCfg = Release|x64
+		{6AAEC255-57CE-44EA-8C75-0C117F1B5DCC}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5D55715-F3B6-4192-BFFB-8C21BF62A549}
+	EndGlobalSection
+EndGlobal
